@@ -1,0 +1,4 @@
+baseURL = "http://daxduggal.com/"
+languageCode = "en-us"
+title = "dax"
+theme = "ananke"
