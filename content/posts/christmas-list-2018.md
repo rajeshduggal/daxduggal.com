@@ -23,7 +23,7 @@ date: 2018-11-23T15:50:36-05:00
 * lego ninjago dieselnaut
 * lego city arctic mobile exploration base
 * lego city arctic air transport
-*
+
 ## Dax is not interested in these things:
 * Paw Patrol
 * monster trucks
