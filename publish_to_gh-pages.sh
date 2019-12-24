@@ -7,19 +7,19 @@
 # git remote add origin git@github.com:rajeshduggal/daxduggal.com.git
 # git commit --allow-empty -m "Start the public branch"
 # git push -u origin gh-pages
-# git checkout --orphan source
+# git checkout --orphan master
 # curl -L -s -o .gitignore https://www.gitignore.io/api/visualstudiocode%2Cvim%2Chugo
 # git add .gitignore
 # git commit -m "Start to fill the memory"
-# git push origin source
+# git push origin master
 # Confirm that /public/ is in the .gitignore file.
 # rm -rf public
 # git worktree add -B gh-pages public origin/gh-pages
-# git checkout source
+# git checkout master
 # ../bin/hugo new site . --force
 # git add config.toml archetypes/default.md
 # git commit -m "Add fresh empty site"
-# git push origin source
+# git push origin master
 # git submodule add https://github.com/MunifTanjim/minimo themes/minimo
 # git submodule init
 # git submodule update
@@ -31,7 +31,7 @@
 # chmod u+x publish_to_gh-pages.sh
 # git add * 
 # git commit -m "Add the first post"
-# git push origin source
+# git push origin master
 # Run the script to publish your site
 # ./publish_to_gh-pages.sh
 # 
@@ -51,7 +51,7 @@
 # cp public/CNAME static/CNAME
 # git add static/CNAME
 # git commit -m "Add CNAME file in static folder"
-# git push origin source
+# git push origin master
 # Publish your site ./publish_to_gh-pages.sh
 # A good configuration redirects a non secured connection to a secured one. Cloudflare covers us on that.
 # Go to your site page on your Cloudlare account and select the Page Rules tab. Create a new page rule
