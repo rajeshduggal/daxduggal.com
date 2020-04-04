@@ -23,6 +23,12 @@ menu:
 * [Bakugan Jigen Dragaon Red Pyrus BakuTech 700G - EUC](https://www.ebay.ca/i/312725038152?chn=ps&norover=1&mkevt=1&mkrid=706-89093-2056-0&mkcid=2&itemid=312725038152&targetid=884345177219&device=c&mktype=pla&googleloc=9000914&poi=&campaignid=9557028239&mkgroupid=97795562386)
 * [Bakugan Battle 5 Pack by SPIN MASTER](https://www.barnesandnoble.com/w/toys-games-bakugan-battle-5-pack/33471263)   (Really Want!)
 * [Bakugan Ultra, Dragonoid with Transforming Baku-Gear, Armored Alliance 3-inch Tall Collectible Action Figure ](https://www.u-buy.com.tw/en/search/index/view/product/B07ZS8KRFH/s/bakugan-ultra-dragonoid-with-transforming-baku-gear-armored-alliance-3-inch-tall-collectible-action-figure/store/store)
+* [Beyblade Burst Turbo Slingshock Precision Strike Launcher E3630](https://www.thebay.com/beyblade-burst-turbo-slingshock-precision-strike-launcher-e3630/product/0600091270216?R=630509757442&P_name=Beyblade&Ntt=beyblade&N=0)
+* [Beyblade Burst Rise Hypersphere Vertical Drop Battle Set E7609](https://www.thebay.com/beyblade-burst-rise-hypersphere-vertical-drop-battle-set-e7609/product/0600091270219?R=630509883615&P_name=Beyblade&Ntt=beyblade&N=0)
+* [Bakugan Battle Planet Deka, Dragonoid Jumbo Bakucore Transforming Figure](https://www.ebay.ca/i/324016815808?chn=ps&norover=1&mkevt=1&mkrid=706-89093-2056-0&mkcid=2&itemid=324016815808&targetid=886208803905&device=c&mktype=pla&googleloc=9000916&poi=&campaignid=9561945096&mkgroupid=97795563346&rlsatarget=pla-886208803905&abcId=1063836&merchantid=118739675&gclid=CjwKCAjw4KD0BRBUEiwA7MFNTZTYqbPKLkN_w2rlN3qSfxqQUV3W-OPKJ8fHQIrdMUuiS_0O6KucJxoCBFYQAvD_BwE)
+* [VTech Kidizoom Smartwatch DX2, Blue (English Version) by VTech] (https://www.amazon.ca/VTech-Kidizoom-Smartwatch-English-Version/dp/B0716P85BM/ref=sr_1_7?crid=3KZX6OY56FVBY&keywords=bluetooth+smart+watch+for+kids&qid=1586016480&sprefix=bluetoo+smart+watch%2Caps%2C314&sr=8-7)
+
+
 
 
 
