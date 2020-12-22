@@ -77,7 +77,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo
+HUGO_ENV=production hugo
 if [ ! -d public ] || [ ! "$(ls -A public)" ]; then
     echo "No contents in public/"
     exit 1;
